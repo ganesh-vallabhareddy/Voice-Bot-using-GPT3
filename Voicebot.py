@@ -12,7 +12,7 @@ mic = sr.Microphone(device_index=1)
 
 
 conversation = ""
-user_name = "You"
+user_name = "Phoenix"
 bot_name = "John Cena"
 
 while True:
