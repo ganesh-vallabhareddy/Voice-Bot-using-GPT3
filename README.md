@@ -23,12 +23,12 @@ Before running the voice bot, make sure you have the following installed:
 
 4. In the `api_secrets.py` file, add the following line and replace `'YOUR_API_KEY'` with your actual GPT-3 API key:
 
-API_KEY = 'YOUR_API_KEY'
+ 'API_KEY = "YOUR_API_KEY"'
 
 
 5. Run the `voicebot.py` script using the following command:
 
-python voicebot.py
+ 'python voicebot.py'
 
 
 6. The voice bot will start listening for your voice input. Start speaking, and the bot will respond accordingly.
