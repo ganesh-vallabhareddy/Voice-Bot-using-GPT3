@@ -6,7 +6,7 @@ This project is a voice bot that utilizes the GPT-3 API by OpenAI to provide con
 
 ## Prerequisites
 
-Before running the voice bot, make sure you have the following installed:
+Before running the voice bot, make sure you have the following installed : 
 
 - Python 3
 - openai (Install using `pip install openai`)
