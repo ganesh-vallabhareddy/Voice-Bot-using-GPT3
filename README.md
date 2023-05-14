@@ -39,8 +39,6 @@ Before running the voice bot, make sure you have the following installed:
 
 - Adjust the `engine` variable in `voicebot.py` to customize the text-to-speech engine settings.
 
-- Experiment with different GPT-3 models by changing the `engine` parameter in the `openai.Completion.create` method.
-
 ## Acknowledgments
 
 - The GPT-3 API by OpenAI
