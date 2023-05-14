@@ -1,6 +1,6 @@
 # Conversational AI
 
-# Voice Bot using GPT-3 API
+##  Voice Bot using GPT-3 API
 
 This project is a voice bot that utilizes the GPT-3 API by OpenAI to provide conversational responses. The bot listens to user input through a microphone, converts speech to text using the Google Speech Recognition API, generates a response using GPT-3, and converts the response back to speech using the pyttsx3 library.
 
